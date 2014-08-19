@@ -2,3 +2,4 @@
  - featlure-A
  - Fix-B
  - feature-C modified!
+ - feature-Z
